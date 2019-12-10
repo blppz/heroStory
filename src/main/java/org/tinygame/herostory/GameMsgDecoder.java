@@ -35,7 +35,7 @@ public class GameMsgDecoder extends ChannelInboundHandlerAdapter {
     // 则会造成资源的浪费
     Message.Builder msgBuilder = GameMsgRecognizer.getBuilderByMsgCode(msgCode);
     if(msgBuilder==null) {
-      logger.error("无法识别的消息msgCode=" + msgCode);
+      logger.error(this+"无法识别的消息msgCode=" + msgCode);
     }
 
     // 读取消息体

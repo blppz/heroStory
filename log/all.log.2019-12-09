@@ -1,0 +1,2101 @@
+[00:12:18,888] [INFO] ServerMain.main --> 服务器启动成功
+[00:19:21,796] [INFO] ServerMain.main --> 服务器启动成功
+[00:19:22,390] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: PdDn/Yu4ftGels68Zg2cZGx/ZtA=
+[00:19:32,432] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: auoPgL8NL/MMFOGxEjyxcDxDAMw=
+[00:19:42,462] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: NxWaFfNooWT6v+KFmxVZ1eUdUgQ=
+[00:19:52,497] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: BJNMYb/jzUEojqEfKVXV+04VTU0=
+[00:20:02,520] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: BkHZmob3Q09IUp0TbXFzt3M99P8=
+[00:20:12,536] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: WykNaNH7vc3NigWwwaPE4Fv6oI4=
+[00:20:22,552] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: PIrP0S3wgN9bgL+WJnodhb5w8q0=
+[00:20:32,574] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 0w+1djIP5FhuDTCM/Al6uOqVsh0=
+[00:20:42,600] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: pM2NRDz4sXaQRRJS2kUs+n9fPSM=
+[00:20:52,628] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: MTflTwY4fqFNnsD3BRb491NxI2U=
+[00:21:02,651] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: DXwPsXUGo2lpj6plmXiyCTJleKc=
+[00:21:12,672] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Rg/Q87cSqMA2QsDhPGr548e/XUQ=
+[00:21:22,701] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 1QZRFsu94QZTp00RqKxxMCcaNbw=
+[00:21:32,732] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: NuHpiSt7mxxnsWu6sWRTeg2wwUw=
+[00:21:42,758] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: igGYVzhxoDeZIm7J6xBtnPPHBo4=
+[00:21:52,791] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 1qeXTWP0P0qOrgc8OcpKKFehjmM=
+[00:22:02,808] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: X12P4X78Wx5J0uo6KHXUT4lmRcI=
+[00:22:12,830] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: /mlYOc3aFcF71G1GwcVSBSGpPnE=
+[00:22:22,856] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: gOf3mUcu+CGvRfWDtxmNSqS+UXs=
+[00:22:32,875] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: gqdAKQDjfWW0OSWO/3KylrDMY6Q=
+[00:22:42,894] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: kJfosbXNjKcbRBQolWCjOYOyTc8=
+[00:22:52,915] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: sBWq3LPLKiMdoqJx7TEy1qt7PN8=
+[00:23:02,937] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: f9DUokAAxtV5wZwiS+hN/ScAqg4=
+[00:23:12,957] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: cPfwfKcZ9x8xvGfe+SI7+K9BUeU=
+[00:23:22,984] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Fz1TrqUj8FfDIaN/Yzx7f1QwZDU=
+[00:23:33,005] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Qx2fzLb9tcBvVeHZitgf3hzN/tg=
+[00:23:43,225] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: g6FdxwziX25nl4UZbSxG1fs35mg=
+[00:23:47,241] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: eNyVQ54SDHx0w184sexxWlxtU3g=
+[00:23:48,142] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 0g7oHhSxuGiLu8/15T556fNf3cY=
+[00:23:49,052] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: sS3fBacY7CZ4tXGmwZakvDAu3l4=
+[00:23:49,178] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: YpkDs4f3GY90+vwcoxoRrqJTLKY=
+[00:23:49,740] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 3KbQLLfxDRCJJaQJVBZzq9/EkbU=
+[00:23:49,848] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: SazWE/T/H+vu3l/MmTZrlHFhlag=
+[00:23:52,665] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: +bwju6J6g3JCkYlHpail7McGdOI=
+[00:23:52,675] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: NbGnQesknV0tEQ+8Kh51i9D4Ugg=
+[00:23:53,323] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: WsyffiBMcugl9MNJHYY4EFp2jBY=
+[00:23:55,451] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: CqpMk6+YxZ7iVK9NUY0CFkVTvhU=
+[00:23:57,429] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Re24gVtwQUug0qDd5yR240YFwDE=
+[00:23:57,725] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: x4Ksqtm53hlubNaWRiy5YbysbwY=
+[00:23:57,806] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 5XgKmEM96vM3M0rLHwI/fYoHyUI=
+[00:23:58,491] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: /SFruEWR+I7YQHlYzW1u3Stizg4=
+[00:24:00,036] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 51ifTPrs53D1jlPUPP1JBnbkblA=
+[00:24:00,073] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: cHm0323W/AN/TvlHHBxOyw60QAA=
+[00:24:02,605] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: t7t/EcvGNHGs/JtjBkKhqDUG3FM=
+[00:24:03,419] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: YfFPvyF2CqzRRdYTWyLmjjkIy5I=
+[00:24:04,431] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: lSEs6Z/zWtxxVNhD9sVeX2wW4A0=
+[00:24:05,068] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 8YcPhw7L8QRN+58R5gfVCs/v35w=
+[00:24:06,398] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: X2OIrwj5GwbgG1GT1Z7s402HWDw=
+[00:24:07,992] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ttOE/iY0bS3yFlEeKcc8BP6Vl9w=
+[00:24:08,771] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: anOdF+4S9ZVu2BuDWbyHmBU159E=
+[00:24:09,748] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: AQW6hDPR03jroR4ZaLAOS72qKJw=
+[00:24:11,186] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: /564Gs6ZVb7lEDgCJI4hlhz+Fek=
+[00:24:12,512] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 9b+YVNt/Y1tbQ4RtqmJChXTJkvE=
+[00:24:12,892] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: u2BVqDkZ2MvRlx1pfnl6MkVpeMQ=
+[00:24:13,051] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: a8fGklktqpspPx8KbxBPw6K4nLE=
+[00:24:15,750] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: IxocOKoPRWWZp+k6Vuu4tA9Pzjc=
+[00:24:16,052] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: dF8/4yYhMKoD9L9IUJsDq7fNd+4=
+[00:24:18,062] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: SDtwknTv4t1ip2BQlJokcdEWWV8=
+[00:24:18,244] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Y0/jbJ2/wYtL+wg3PHFJnZIHnoM=
+[00:24:19,998] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Np3PVotA4N77785xLrMEeZHZFyI=
+[00:24:21,008] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: yBW6DyOzQwZaIgCHAyxIvgYdnyM=
+[00:24:22,063] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: lDNHczUl8D7k3E32I6k9CS9WQmM=
+[00:24:22,686] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: H4SsUUu0SEvAecIrn9xsGyw6G1E=
+[00:24:23,273] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: hYqJR/5VxsSLb/PQA25YJTOlynk=
+[00:24:25,772] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: JM9Qczc6ScLo4TFr/Om7I3mPYfA=
+[00:24:26,345] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: UbLPH8XB4l6I0s7sd3fiMcfnzlg=
+[00:24:26,902] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: G6iTpapNEqtD3rGw29aBWJSJjEM=
+[00:24:28,764] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: TdYvObU0i9dK5JOF7w1ntVAeT3k=
+[00:24:30,392] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 9SaET4QbHnnw4gVYntIagnQZqIs=
+[00:24:30,904] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: YPWgvvw+MuXJx6qNI749hwB0S+Q=
+[00:24:31,267] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: iaa+U64XchslNlBWkaLz7IF54WY=
+[00:24:31,692] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: JqCfSfre+RsDMSJStB4sV5zxta8=
+[00:24:34,564] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: K40a3OrgnjtFIdGAodB7OFYNuVY=
+[00:24:35,205] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: roqPNC2RUW+0IQ9U5aPuid7y4ME=
+[00:24:35,928] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 4NM82XRN6bUqMChnbDcK4WkQMEY=
+[00:24:36,518] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: QZobNFM02eX7TJKpFQbVMV4kxL0=
+[00:24:37,268] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: XoOJwU5GY6A8tiZ2aPyA27tloEA=
+[00:24:37,422] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 4X1Z/kvpDz2/Axq36XYah6lVSJU=
+[00:24:39,384] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: wyxA7YhEwiuFkiU7WwTSmhxQsQ4=
+[00:24:40,500] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 23pbM0TFkrDxxa3qlw7nggrA8N4=
+[00:24:40,839] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: DymwY6b8w3HD/7NUQmO55FCeHyE=
+[00:24:43,682] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: adnVEzuCs2gkCxxvWXe2F7Snvbc=
+[00:24:43,957] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: QLxmNkOnnYoDCxyimZCsC2Wn34s=
+[00:24:44,509] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: hfL5tij7kbCEx7a9aCGTU9kTNuw=
+[00:24:44,786] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: lrpYgBkBF2WcvbvBj1mBFA1EkLE=
+[00:24:45,673] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: gQjQn5Z4+wvJJcimgfTX0S+dAc4=
+[00:24:47,251] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: XJ68ihKxzLU9vzbisjkyVHdSlEI=
+[00:24:47,387] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: HQKinW+tuWmmXdsrvUlc9awYVnk=
+[00:24:50,051] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Slf2m8Xs8a2hkm3xrL2sFh5SrcI=
+[00:24:50,413] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: f7JuEDiyzovQCZsUR8RqVkZ7a74=
+[00:24:52,727] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 2F8oesILheZrdiGo5Fmx1R+9qdU=
+[00:24:52,867] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: mYx9xbm0+dQzpucyR1uUajO2iCI=
+[00:24:53,061] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 8OYPh1KLd4eKVIB8B6B6p7Uci64=
+[00:24:53,388] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: vC+8HB0dOuH51/SSf0v24bzH7bA=
+[00:24:55,071] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: wbheO0NocVy2QGSGMHZqd4yrp3w=
+[00:24:56,587] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 9WrjsEwi5Yl3YOrHMWp7db7h+ew=
+[00:24:56,731] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: noECLS53+XhoCRLTFyHLACdHoMg=
+[00:24:57,773] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: kuBFxeoNdVQw52dAHpjoWbyTZKI=
+[00:25:00,636] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: NBbX7a83O2SyZQIvQ2xPwrkk7S8=
+[00:25:02,147] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: RRLqUQ5JO18oiTnukGPym3dyJ+g=
+[00:25:02,587] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: JaXRQiO1K7cP/Ur00pSQMI7d2Ok=
+[00:25:03,170] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: +8Ia/FzgC+7DjjVCR6PuJtWM8mY=
+[00:25:03,851] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: KRe1WU//LNbBQUux8CGfCu1GLi4=
+[00:25:04,647] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ZDZtn9Lg6IuLCVCJO5P3XUdRoCg=
+[00:25:05,035] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: tQf9uns/Q/0raAbTwpttwq/Ef4I=
+[00:25:05,802] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Fk0CBAPGHLd6wTAHswdEM/l2GlE=
+[00:25:08,481] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 2oqCBION1pJGwEdJGgx1qGKJmMQ=
+[00:25:09,021] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: WNYe3i5LLe2yfrHCxyKmMlawCA0=
+[00:25:10,505] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: JyhpXJWVXJ0vIbDo9Zr8vHEnacs=
+[00:25:10,578] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: gkltwhJwV6E4qW5NmhSPLFaNxFQ=
+[00:25:10,711] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: such9CVIfBUZmaUDgBkKS2yRYdI=
+[00:25:13,370] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 1GgvUOROtT+Du0Kk66qQhPYE12s=
+[00:25:14,016] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: RLA9CSpFQZxooj2X/32a4Y9etBM=
+[00:25:14,444] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: fHxE52dh8JFQswWxcnYE6LDHW1A=
+[00:25:15,085] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: QP0N2omrApvNBnEvTMycZM5Axgs=
+[00:25:16,711] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: +a413AOtXBMelR5yCUvdq7s8coY=
+[00:25:16,736] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 3UrPM0qsbROF/GhcnNejpgmI7lY=
+[00:25:17,579] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 4GXAXvpqXE6ZG9G4mGtTrVGC8FM=
+[00:25:19,320] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: qcDkPr4dCNWTS38FlCSvSvR+kXI=
+[00:25:21,181] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ZvDQ5aiCJQs5jU5tJUn4TH/Lw8A=
+[00:25:22,333] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: g22++ozxciiLqBUQZlkvo3ILhfI=
+[00:25:22,671] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: WduWhMkQ0ExYFGnMLFtpWMZagzc=
+[00:25:23,805] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: PzZe+I3UXXdpWU9F115rGAjgZX8=
+[00:25:25,212] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: PskMQsmygDFIItftHkyPRdXWBTg=
+[00:25:26,271] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: G8AmovlvsvqL6dIZqD7FPOJeQGs=
+[00:25:27,992] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: vOPJ3ibahzLS1PT5VNuGyBWn5cA=
+[00:25:28,653] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: zIxCFpyAgeVOtZHEyDFwGi4nc6E=
+[00:25:28,928] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: OwGCSlnLA3cvZX2sTP1xZhd59lo=
+[00:25:29,674] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: SimpleLeakAwareByteBuf(PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0)))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ox1uHiHe/xordWcDnyruYXVTTn0=
+[00:25:31,602] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: xfrWjTReD5jLpapGpBNs4oBfhw4=
+[00:25:31,684] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: HCNbGr/EcHQK8cN1HDO6P+n+iYo=
+[00:25:32,007] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: yOpRJHQlp7+F31YCmC+dgcE3pZQ=
+[00:25:32,071] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 8A23+sBfNVZx3LQ2KpTnzK4C+0o=
+[00:25:33,535] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: nRu1R9AeHVSZQ4oKTXZc0zbrDC8=
+[00:25:36,384] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: K73LI1LtmyUeCLj0Lp33f7Gn3Ss=
+[00:25:36,790] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: L181cI1/Fx/Em+TaODxf1X+ZNUQ=
+[00:25:38,801] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: DZTnQsNyetCtdrVlEPdh9uqn4Xw=
+[00:25:39,539] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: z0Uv5fH/WlVKnXZMbouIzS4mpig=
+[00:25:40,008] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: pADJ/o7MDbk0/qP/Ofi/7NW1Yb0=
+[00:25:41,168] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: x9Pf5F5j6UOGEdzQItMn+aFEwqE=
+[00:25:41,815] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: y3MLDN7MYQey6Izb1sUhHxCCQJs=
+[00:25:41,991] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: vsu5/hQ6xHIB0ttcxN5mVbkl5/8=
+[00:25:42,549] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: RjbFup6wMZHgnA3Rw8QrjRubhy0=
+[00:25:43,553] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 3C0s7Vw+9iQ7KMjJawQGjKEPJYA=
+[00:25:45,258] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: i4oDu/RN3XpOGcXOnSkfTA1xSmI=
+[00:25:45,463] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: tbbyOfqE7fZxQRuV6dmsCAzZ0nM=
+[00:25:47,293] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Zm2/XbhRc/wsg/xfkGT8y6PJjSs=
+[00:25:48,098] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: v+wF1nTZuu+/o4HdGnVONa3syLs=
+[00:25:50,519] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: +MIoMo+IXlajLNNYkqJvBD1QiE4=
+[00:25:50,818] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: nf9jTIZJCW1BfDjTllDzc5r0njQ=
+[00:25:51,908] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: vjo79mliDIvHRp1D/u3eHvaWYgI=
+[00:25:53,116] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: c7F4SVe1Rw3ozpTj6sJIeMQND08=
+[00:25:53,204] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: qvDo9nJz5lUfSVRsjLKVyprgp5s=
+[00:25:56,612] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: cy7t4U0fME0VWE5OJLTbThcA+DE=
+[00:25:56,753] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: nQtaD7NQ2Gi57UNcEindt4+cDiw=
+[00:25:57,016] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Pp7p60Z5pjAq3zxMbIJVNfxVDrw=
+[00:25:57,709] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: lhshgZpDQtdIBihk8YfSi6xan9U=
+[00:25:58,283] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 1Z6wt6Hkxt1IpT4GX6wyYQPFX/I=
+[00:25:59,215] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 9TU/OIr6087RGkCAVg1ewXQ6MUA=
+[00:26:00,658] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 4cqxerWEJG8jTrMZBB22mVhhG7g=
+[00:26:01,313] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: YdtCGV4xrol8B5RrPgXiLdRG6dA=
+[00:26:02,872] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: bLNCAUOrDIQFxACBvrBDk2NhFHw=
+[00:26:02,956] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: /jXaIGTtqQI17e1Gcptwd2RhMSA=
+[00:26:04,715] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: bhlMKLpjUd7XCywrAjegFdW6RN4=
+[00:26:05,690] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 4EGvm2M1mvKGtI+LrqNUBio+/EQ=
+[00:26:06,249] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: paqMPxdDCAvcT/SC865r9nfBIgE=
+[00:26:08,313] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: LsZw1DzsYuCpEgxInaD9lrlW7sU=
+[00:26:09,646] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Y2tNksy/dIQog3sYfT0WGd3Qqdw=
+[00:26:09,808] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 7AJefXnQE9x45j6H3XG18url0mw=
+[00:26:11,079] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: CKu8Q2g4eRaqapVMxKV7ZpUDjkY=
+[00:26:11,677] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: xICjKbG8cmroXil/314Pq/xq630=
+[00:26:13,586] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 2chX/u//q3SYwIF2s5PxHNTNzis=
+[00:26:13,881] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: kunysROmNGZk7tMCQ7ilLZlwe9U=
+[00:26:14,309] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: aHUjK4byikhOpv5z4+gSxaR0JJs=
+[00:26:16,696] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: V/i4dG7vbetMKOol4aqFqqh1FUk=
+[00:26:17,360] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: vza1T3czubjuHNu7K5yOn0cZGts=
+[00:26:18,391] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: EZWIziNqLS3nGtjd41i40j6DSj0=
+[00:26:18,844] [WARN] DefaultChannelPipeline.onUnhandledInboundException --> An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:247)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1147)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:700)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+[08:06:01,260] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: uWMWv6ruNcwjSOjlhCO7mNfiWts=
+[08:06:11,274] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Kzvq0ymCCFrB5aLSliu2bnCx5nU=
+[08:06:21,288] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Jx0EYb3jboD46TwlEipaEVF6h3Q=
+[08:06:31,301] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: KmrOhVsYwqMmhcJjPh0+AKwAzHg=
+[08:06:41,314] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: VKY76wHDnaOuyjW/Llz6+OB9vQA=
+[08:06:51,327] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 5GKZRQmtz1QXmG81oKCFQ+F+2Ew=
+[08:07:01,340] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: HdKi8LuEEvMbWkBXLwZ5LrjeK6I=
+[08:07:11,352] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: viJoeeW9epdleAfGWXQJSewk84Q=
+[08:07:21,369] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: SBameTKwagNRYGEC+xR8qQXZDa4=
+[08:07:31,385] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: OJxAliSE7rjfrx+hCfa9eH/xW+A=
+[08:07:41,400] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: yQBataNWOX4amfsMP0NAf/O+wdg=
+[08:07:51,416] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Mh0BLn+5wHgr/uOJ5fxEBmooizg=
+[08:08:01,433] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: l4+uzi8d11Y3MPCfbVFVxyamF40=
+[08:08:11,450] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: xIBY+8IsUJuxtGvJKkb7ZwN9fxI=
+[08:08:21,469] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: +yNs0hDC6gqDWL4eA5rLMRcYorg=
+[08:08:31,486] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: MbmHe5Gf/WoGbAbGiDUIC3CvMcQ=
+[08:08:41,501] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: BGbtfYTQ1+AgxWQp/Ija5m8R5AY=
+[08:08:51,515] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 0cwZiLMFKIEJ7IxJwiYLKgw0cXM=
+[08:09:01,527] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ubdgmrgqsZd3bD01FrtOHQsdt2M=
+[08:09:11,540] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: OOLbESNTn4L1Wq5+mscjrs0AHTQ=
+[08:09:21,552] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: FcMmHzbzUudWgkHEkAtsPf1Vdqg=
+[08:09:31,565] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 5NFNGFMxZqTDPMDMk24HK1C3HvQ=
+[08:09:41,581] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 4jqZNYkgaMYlK6r28ML13rBoMvs=
+[08:09:51,598] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ZubsGQyffewqyLjza+4ub/TfTEU=
+[08:10:01,614] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 6+DOImWcVBxe8Oz4vffGlB+MDXw=
+[08:10:11,631] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 9QK8ev+Ub0TAdkurcPhpDkgcto8=
+[08:10:21,648] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: T0flQYqbKO+YaadFlKXf/stsXFk=
+[08:10:25,605] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: h1ksAuhMLVDswFbqISQJl0udGZQ=
+[08:10:26,500] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: rINHZQikQIxbmHZF+QDBsCvGPns=
+[08:10:26,589] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: aAKaUwa5lsFWU1HgGF8ksTbjKZ4=
+[08:10:28,346] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 2vbtK5F1te2waTgYq26XfGcthPA=
+[08:10:29,117] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: d8/R3lEJtIkQq5lDYESz5RYXIgg=
+[08:10:30,849] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: qxOHa2udBJsgWAL8RtruEE61k+U=
+[08:10:30,873] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: WOkAK4CfYyARp7KCV0sVHncarL8=
+[08:10:31,564] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: w3uNDzYGwK8Wm6atdqE4GRiArcU=
+[08:10:33,402] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: dhfhDIxfAsRmK3Q6Dsan/D2YGTE=
+[08:10:34,101] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: uSHtXVjLhHAaE0e+C9moGlNbWlY=
+[08:10:34,890] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 93Fn6unmjVEPwQLCkEq5Gi49rwI=
+[08:10:35,731] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: zJOJxkzSVS2VPdqJZasUxJB4vik=
+[08:10:37,102] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 2JslpUh6nD8zN36w58YNQ8gFxRQ=
+[08:10:37,805] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: BUWsmJzh6oHX9/aJbuCiN+JkPtg=
+[08:10:39,584] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 9wScxuRGu8PN5/3uxxbHW8sAgPM=
+[08:10:41,588] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: tBkz3WZGRVw2Owl8PbVH/BpkBF8=
+[08:10:42,456] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: CgHu++nvPOFUa3/p4nm+1xGNEtM=
+[08:10:42,562] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ayaIoYdfOPzsuslzhFIQnul+q+0=
+[08:10:44,815] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: sMZ4idTcjpXx/ot54ZjQLyUmc0g=
+[08:10:45,914] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 6puqzeMBlYvumFLVGXJKKD7osuc=
+[08:10:46,038] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: a5HEr19TTpCUJovRnpBCvEr93u8=
+[08:10:46,239] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: dAhGVGw6g+qidzB8wXQ7pKvLAJo=
+[08:10:48,929] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 0K/5qg3W2FRf9ROpj7Z2Qr9Mftc=
+[08:10:49,392] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Coy4XBaRXq7HQOWOMTFnVDAXzlY=
+[08:10:50,268] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 7cjDOYyHu+KOe4rI2Pl6CqVQpQ0=
+[08:10:50,502] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: t9sk6MzzbgXBxe46+GHcKcqqGeY=
+[08:10:50,825] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: /5+v30WAtL4VuL/XGdDO+kX+W8Q=
+[08:10:51,703] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: YrP9bRw+DTjfSHRZtJ7aICrzYBU=
+[08:10:52,941] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 7UKNnBxWLV11OgZ5wn26UdIn7YI=
+[08:10:53,546] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: D+1K3hsBGP2IpB8h0Kf1YvXA17g=
+[08:10:54,492] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Ho+kutbgsK+p8L7fZuYPGNVoeeQ=
+[08:10:55,703] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 3ManDQomDoT1fh91u/9EkKpgw3Q=
+[08:10:57,417] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: K2D0H6Bst2712YW1eer6j+Z3Jmg=
+[08:10:59,099] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 7R9JL1oc5XZFceJui8EoJGtDA54=
+[08:10:59,719] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Msx6lmGqDsDwNZtPhz1S3nE1iXo=
+[08:11:01,166] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: weRLl/SaNV/5100503ZuNzfmhUE=
+[08:11:03,051] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 6obeBfankSVLtUT3eSxBmamQ0Sk=
+[08:11:04,656] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: dXKKE3D2/93+KxKwdmq3Y8zv7LI=
+[08:11:04,674] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 1h1sb689RhuIyaAs5jB7nea/FQY=
+[08:11:05,217] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: vWa0tnUVOM18/t7dkDxSkLGrESw=
+[08:11:05,626] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: b8FVcGwVpSjRXc9FqHtKH4GIDaM=
+[08:11:07,331] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: xdFytbE05/UQiFk6anZkBbY3nmU=
+[08:11:08,200] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: vbPDwVmJy6igsuezmp5uKclk5zE=
+[08:11:09,348] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: /qYquZd6CmhQxYUd6KWewelG0W0=
+[08:11:10,006] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: +eIsi23ls+dIdb6gkExMzV3fxYk=
+[08:11:10,302] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: GOn02wFqNdiLbyJjC9MlcHPEplA=
+[08:11:11,035] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 3l2aQnqX6x8spfwLfAQQ6IIclXA=
+[08:11:12,301] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: AOSrZa756wU86O3nNwBeW0jRuDs=
+[08:11:13,239] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: wDavRozFlp6iPD3uXN8ITayicnM=
+[08:11:13,802] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: qRKQS0zVDkOBvopS7/7AQlCasgo=
+[08:11:13,876] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: MLMimQcuwZOpdaHQRLO9Adbzzbs=
+[08:11:16,627] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 02EmE3YCNW3lbaoR00hH+WdHBZI=
+[08:11:17,625] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: xE3SGtW0RHjtyfBCrSJGSzLfN2I=
+[08:11:18,753] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: g2tsQy2DbW8l5f9RUd9INJVRp/4=
+[08:11:19,305] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: IK/UfIRuxkmrBUGrZSRUDC6D+ig=
+[08:11:21,482] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: yAsmP4KOocAIxS2fUVArfVcDWBs=
+[08:11:21,598] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: QUnSaouFSsT0Rz14AeuFbla1vFE=
+[08:11:22,638] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: hDpxq8XopZ8DN0Xday9OeDtvELk=
+[08:11:22,913] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: fBfPg/HtVy62nVG5T5lngGyEkws=
+[08:11:24,026] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: PHh1v0/ItYxkXj35MVLB0XAgSbo=
+[08:11:26,133] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: q+Aras12Whu729Er3Ic6J4cKgas=
+[08:11:26,534] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: GA7/KUHP+xQeTgUwOp5XvTNNRWo=
+[08:11:26,989] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: SimpleLeakAwareByteBuf(PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0)))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: vnntGW1c6GXoQQImbvFlrwbZd38=
+[08:11:28,236] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 2+E1qzAWNCpWsTJ+WRW7Qij7EH0=
+[08:11:28,557] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: weJ6BU5MCoapzAib4g0FpR+iguw=
+[08:11:29,836] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: GJdLm7oCCFem8vXokAW1Tfub7Z0=
+[08:11:31,427] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: y1zUIj5DbnLhLMdba5T5OaN3Nc8=
+[08:11:32,096] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: zBTBvQjATAPjRImNok4UeEGUsQ0=
+[08:11:34,259] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: lWTsvpTmfTr67DP7uMb8WyR0UAs=
+[08:11:34,486] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: WEXpXN2JLKgQhIvzzsArQi47xY4=
+[08:11:36,126] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 7kUjrfUPwOHZRThqyops2lu5RJk=
+[08:11:37,747] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ccVVgGGCCBnRZdaaPgQfKWlDWh4=
+[08:11:38,211] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: +U+R7NnxAi/+t84JgEa+yOYbexc=
+[08:11:39,748] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: gyz34XTtKFixLtlKRNrraYXaWnE=
+[08:11:40,199] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: GgOFJ6sB0dZGFfcmF+tC1+PU9xQ=
+[08:11:41,022] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ojPtMtLUlDOfzdwOogLSiFC21KA=
+[08:11:41,853] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: BM67LyBvnOzhook8pF6lUOIjPF0=
+[08:11:42,287] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: nlyIZNbCakpqdKlf5DMuHzwf0T0=
+[08:11:42,694] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: j1ZMpHUh2RaFM1xGCjMi55GIutA=
+[08:11:43,570] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 7WoOZ48FJ0EhdrtVD+e2QeM0Reg=
+[08:11:45,408] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: xgMTzxDSvSGyiSt7WCEz7bffQfs=
+[08:11:47,909] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ElM0/Za2ObE0JAU0xnw96UGKjqU=
+[08:11:48,029] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: fb+4x7RZa7Fl7TuIXgXW5CE+TyI=
+[08:11:49,777] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: M67h6D09jyIyh/jgUU/S8zWwhH0=
+[08:11:49,865] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: LxHxgXJPx6V4jAiQZS13yjtzBtA=
+[08:11:50,849] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 38ONLdbvRgRAfEN8FbJhKwLujGo=
+[08:11:51,896] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: dNBwNe7bzL8xSs8+Ny8GxfhBe0o=
+[08:11:51,940] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ypioUFR1sV2OKGtmqtqRF+grwII=
+[08:11:53,971] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: A+sp+JR7xrGh6uvtISPS3aMtMgA=
+[08:11:54,329] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: IwmmYMlyTAlQkaVXAOk0JzFAPLw=
+[08:11:55,698] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: LAOQU9ORF57DUCjTS++qugUjU0s=
+[08:11:56,775] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: gMwqi7k855imJQ4aukEDQ84X2JY=
+[08:11:59,058] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 2yMc9NDBHHfbG5Tle9LJ9Ote17o=
+[08:11:59,618] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: CT2zEr6JxSPi2Kg8NOfu1GT6TFk=
+[08:11:59,993] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 6t0xlOgVQjmg7MmlCXn8NFHmG/I=
+[08:12:00,910] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 9PgMYQj4yRHEMmRMzKiBDc46KR4=
+[08:12:01,982] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 0J/glnpACdtJArLyAtz3UwgD3pE=
+[08:12:03,153] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ocjWNifYs1WUJxgE+ZvcR3CPuWo=
+[08:12:03,453] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 71HDfDtINklAqKxb2DSvIeiWbUM=
+[08:12:04,206] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: YBNDgMQbjzxQx55dYy8EGeMJF54=
+[08:12:05,847] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 1s8eY4Dhwt2a1WZbz6M3GjMf79c=
+[08:12:07,357] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: wjrrHRRSPlQ8gx39D3Gwntko/90=
+[08:12:07,460] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: tCOWfn7zp5RjaJKmZjvldNsrZAs=
+[08:12:08,679] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 1x3y1KsouCMhoW//1fy/hHg3FyQ=
+[08:12:09,911] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: FanjiyIeYA3ytgKuBkuAt0xlvgs=
+[08:12:10,775] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Y0XXIm8fOSPtP3DigR8QwIaCikk=
+[08:12:12,109] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: O8/lG0Mi0Ce830T1RFq1ognWJvs=
+[08:12:12,935] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: QwGFBVFxZHjt6m2WtiOCbXYUJj8=
+[08:12:13,316] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: SimpleLeakAwareByteBuf(PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0)))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: d0S5sx9v3EPdudt5K4Dt0NMn0TM=
+[08:12:14,575] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: X9HLFxrlKGLPJTcWOCXx+97Dgp0=
+[08:12:15,784] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: qYRSs68MljI0DhdJrX4SJ/HMMgg=
+[08:12:16,679] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: UiSjRJ6ytRcc6uxgRMzma/8/lp0=
+[08:12:17,186] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: wUQilIyp8XEl8eAX9qtsEFvh4Vg=
+[08:12:18,678] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: aqWF9DC6nyye+mCEyUwxzRbzwXE=
+[08:12:19,951] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 4Co4IVLveZDkjH0pRYYfeZM7OMQ=
+[08:12:21,162] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 6qgE7+gFgGZRXIsDLIIiSGNgDmM=
+[08:12:22,178] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ffdMehhyzkwkyNjkPthtkBuopNE=
+[08:12:22,382] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: DJs1wGkwAS3FfmSF9oomhod6AXM=
+[08:12:24,411] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: fZ6Z0GBYAFB22CPSW4cv8A7eiyM=
+[08:12:25,372] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: VoI+hgaISesK4Z7MNvyqFqzROPA=
+[08:12:26,224] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 7K5oj6M5h8UnSjWBOQ0kSNoa47M=
+[08:12:26,323] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Fek+1udxFMtp/srrw5lvYFK1nLA=
+[08:12:27,969] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 6jeds4JfwyfvXOcUTODOap/FMyE=
+[08:12:28,529] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: rjkRTpT9Z5kbgWulvFV1N5DZWYc=
+[08:12:29,902] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: M6HxNLYznZfhEWaV27f+SOQ74oY=
+[08:12:32,078] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: HdYuZjgJc6yJJ51KcViGn0vE7MU=
+[08:12:33,240] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: x8ajzaTG18zG69WaeqcG6uJwueo=
+[08:12:33,599] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: r3d6J/FZ9s4kJk1+5a9l7TH3wvQ=
+[08:12:34,163] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: sBFfinZx90C9y+6BuOl8J7cl7GM=
+[08:12:34,477] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: z+PSGUVX3l+fxuYLKgiM6avCMWs=
+[08:12:36,037] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 3unGlnx+RmI2DejETesTSt9wms0=
+[08:12:36,926] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 3QcndSIQPqlj8auYn015Ku5/fbY=
+[08:12:39,016] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ZHt6MARsZbOAc6FT+u3nJa1pxuI=
+[08:12:39,099] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: lifg+Evuvdo9HjIAxhvBqJSysA8=
+[08:12:39,622] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: WyEhEmGCbwfXAmkpOqsns+ReTuQ=
+[08:12:40,754] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 4KqJrQbg0UXE4lgGQpqK+C6ei9o=
+[08:12:41,916] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: nN+knPBYu0Hg6NStM9t7Dd39WzY=
+[08:12:41,962] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: uxdsS5ik5geyWgnNEjRjur2Li0E=
+[08:12:44,137] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: if8AQv37giibFWJa9KzNM3bwBbY=
+[08:12:45,326] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 40I2CSNyd8KX56qAqmNHifFzQak=
+[08:12:45,674] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: nSyBYZinnLJhzR/GIR63DvVLR2I=
+[08:12:47,370] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Q8mD1xO0EyBk8rgjso+mQTMjVGY=
+[08:12:47,522] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 34q1HuVIGkPbWNhvcXNBIRlRLLo=
+[08:12:47,663] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: fAETWyIIhdFAc8SzPes9NvmlxG0=
+[08:12:48,158] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 7zNkCWz0CvmwhRkYMCH+onTNuvs=
+[08:12:50,366] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 3PQy/Oj/ObvXEmSejO/mXp8Mu1U=
+[08:12:51,589] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: OOD9d/Zubn5RZrgCn6VYYo+mLJg=
+[08:12:51,816] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: YsNa+6tmmMlyAmM/2d/6jt5lhzw=
+[08:12:52,443] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 0SPLl/rVgdtIUkU2HP4qvJlp1f0=
+[08:12:53,766] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: xuwrgvhmiBamPD42YfoBc3eBJFI=
+[08:12:55,952] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: sEx6IrjDZ73qNFsYfhIoUsP/L1Y=
+[08:12:56,021] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: cSApGwUtF/+FojpZAHzlRJO3RxQ=
+[08:12:56,094] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: eX9COM1nO5Yftr8VKsxYUuh1zX4=
+[08:12:57,457] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Ew10d1eUT2oPXT9Iolxdfp9Xig8=
+[08:12:57,563] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: wbmuROlywP9EzuymTPhU/3bCtAc=
+[08:12:59,535] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: shijkkUWBb1NPiFIJ72xwRocNWk=
+[08:13:00,405] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: lMoQISgeLeV6xuwH1ZH7GQ7oWnU=
+[08:13:01,529] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 5FvJsAW7lpZ9xJG50onsS4xG7Jo=
+[08:13:03,612] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: qGe97n56m2pYQaFUnpl5NoJsurw=
+[08:13:04,794] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: xcPw2OeV08uGs8p+gNsmAvCC7c8=
+[08:13:05,055] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ZfdvEZewtAfrz2WNgbcn2+0ttC8=
+[08:13:08,666] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: IHoE6ZdUYMHtlt4Ht2AAlkG3P7w=
+[08:13:09,117] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: +gz7F5mmqzwl5eItIHN1rfecug8=
+[08:13:09,437] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: qkKF3187H856JUZd0gdeQ8tAjZo=
+[08:13:09,701] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: gIx13Dozni63we1fFflTiUhnpXg=
+[08:13:09,993] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: sJGz6gl1+gYQ8Y43I7n5K0vBqUc=
+[08:13:10,366] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: fCwGiks/iCeYxbYi9DWlHj4KCq8=
+[08:13:12,344] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: vrAH4KLdOGUhncldSrC1z07/w+M=
+[08:13:12,506] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: /ObuFG+s3rhc+13AXv4hSU5vs8Q=
+[08:13:13,738] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: XRVuRQSTe8QaA02UYBr0fBNFNfE=
+[08:13:15,944] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: QPqkN9dS++nt5aT661QhiSeZP6M=
+[08:13:16,307] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Hoql6hvv2Bn2+EeKLBX88AsZiRw=
+[08:13:16,358] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: aPB1bpKVm9hCVnHTSh93XH37rJE=
+[08:13:19,903] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Vx6Vc0FEcF2aoQhO5tMHn8U1lRg=
+[08:13:20,422] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: sMMqko9uY9B482zRFU8yvqdAQsc=
+[08:13:20,519] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: HXbkPanjW9bKzXJ2VQlzz8+jFz8=
+[08:13:21,772] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: gfBZrIEknwKLRFXarGIIJmwxfgA=
+[08:13:22,345] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: TKi2MOz7x/kUuptbevglgnlh04I=
+[08:13:23,904] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: lQIUnj8IADFGNru9I9kdhZB7EO8=
+[08:13:25,035] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ukBrkkf7/I2y3maEA8Lqh4IVrIc=
+[08:13:25,411] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 5V5fXNBORxHog/zLonrj9aTUdYw=
+[08:13:25,602] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: vf5MXYGW1KJFCioopMIYbQ5XSAk=
+[08:13:28,025] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: G9v/7g/winlLYQFvbW2PXgJks2s=
+[08:13:28,710] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ZrViBtY2+4l6cVjRl3XgbS7zhII=
+[08:13:30,603] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: WXyM5YHhslVhO8b7ypZFPIbhL4A=
+[08:13:31,053] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: SF1Lt5HSpd9yTC5/g7SpN4yuCTQ=
+[08:13:32,062] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: fNrNx/ESmHCRs+qoEKulWZakMq4=
+[08:13:33,155] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: DO91Qzk0D+BWEpepwbXjJw8RYW4=
+[08:13:34,228] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 2/8wPD/86Owyq0MzQLxich5MIuk=
+[08:13:35,346] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Kdy4H1qw7TKjq48gfOuphsWURxo=
+[08:13:35,617] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: i1pAbhijCmmVJf9cTkgPVEs5ECg=
+[08:13:37,094] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: NbQtbFcoIY4MiY2O7Y1Dtl5fumE=
+[08:13:37,712] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 5FG8FKUi8zY0qKxq3tn9bO7vK6s=
+[08:13:37,735] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: eSWZ4I3+CncALAhKj4bP07Q9fG0=
+[08:13:39,255] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: lbbitlZ8s4hTEqOS3p5M2jSB4lo=
+[08:13:42,366] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 4G0QiLmT1oHiNE9OoxZ36/fxt0M=
+[08:13:42,730] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: Vu8bO/bomglO5S2iRxXXz1cc9QM=
+[08:13:44,851] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 9dy0YygiDjalg98Uk3r8Tz6vxcA=
+[08:13:44,990] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 42qElcmvdPEZfDp+8VxInxZMmXA=
+[08:13:45,636] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: WYvTs1LZmvUVR/7aiHKuBPlemBI=
+[08:13:46,400] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: ZIkcwEP7/azL3/YPmL5ehiyYBLg=
+[08:13:46,710] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: T9xCAqfEBEKRn8IXf+o1J9Fpv70=
+[10:13:00,137] [INFO] ServerMain.main --> 服务器启动成功
+[10:13:00,715] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: gXSAeYfPyMOWZm3YcFsveRx2JG0=
+[10:13:10,772] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: 4lWhMda/Sz1RhcOZSPld3PAryjI=
+[10:13:20,802] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: F1UYTrdEFZ2V7saGDXifeRP+Dkw=
+[10:13:30,830] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: vez1a7OzD6od/2PfKp0SeztBZNI=
+[10:13:40,858] [ERROR] GameMsgEncoder.write --> 无法识别的msg->DefaultFullHttpResponse(decodeResult: success, version: HTTP/1.1, content: PooledUnsafeDirectByteBuf(ridx: 0, widx: 0, cap: 0))
+HTTP/1.1 101 Switching Protocols
+upgrade: websocket
+connection: upgrade
+sec-websocket-accept: b40I/pgentaF3bGzwKDziFNArEQ=
+[10:20:14,503] [INFO] ServerMain.main --> 服务器启动成功
+[10:56:19,194] [INFO] ServerMain.main --> 服务器启动成功
+[11:44:00,871] [INFO] ServerMain.main --> 服务器启动成功
+[11:59:04,206] [INFO] ServerMain.main --> 服务器启动成功
+[12:40:16,020] [INFO] ServerMain.main --> 服务器启动成功
+[12:45:08,617] [INFO] ServerMain.main --> 服务器启动成功
+[12:47:30,520] [INFO] ServerMain.main --> 服务器启动成功
+[12:49:23,446] [INFO] ServerMain.main --> 服务器启动成功
+[16:18:45,929] [INFO] ServerMain.main --> 服务器启动成功
+[17:21:13,222] [INFO] ServerMain.main --> 服务器启动成功
+[19:31:56,494] [INFO] ServerMain.main --> 服务器启动成功
+[20:29:05,900] [INFO] ServerMain.main --> 服务器启动成功
+[22:30:41,081] [INFO] ServerMain.main --> 服务器启动成功
+[22:31:51,097] [ERROR] GameMsgDecoder.channelRead --> 无法识别的消息msgCode=9
+[23:13:21,168] [INFO] ServerMain.main --> 服务器启动成功
+[23:14:22,265] [ERROR] GameMsgDecoder.channelRead --> 无法识别的消息msgCode=0
+[23:14:22,269] [ERROR] GameMsgDecoder.channelRead --> 无法识别的消息msgCode=2
+[23:14:24,877] [ERROR] GameMsgDecoder.channelRead --> 无法识别的消息msgCode=9
+[23:14:26,166] [ERROR] GameMsgDecoder.channelRead --> 无法识别的消息msgCode=4
+[23:14:28,707] [ERROR] GameMsgDecoder.channelRead --> 无法识别的消息msgCode=4
+[23:14:32,412] [ERROR] GameMsgDecoder.channelRead --> 无法识别的消息msgCode=0
+[23:14:32,413] [ERROR] GameMsgDecoder.channelRead --> 无法识别的消息msgCode=2
+[23:14:33,308] [ERROR] GameMsgDecoder.channelRead --> 无法识别的消息msgCode=4
+[23:17:23,808] [INFO] ServerMain.main --> 服务器启动成功

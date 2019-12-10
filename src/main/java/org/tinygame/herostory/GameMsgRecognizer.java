@@ -6,6 +6,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.tinygame.herostory.msg.GameMsgProtocol;
 
+import java.lang.reflect.Field;
+import java.lang.reflect.InvocationTargetException;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -23,15 +25,23 @@ public final class GameMsgRecognizer {
   }
 
   public static void init() {
+    Class<?>[] innerClazzArr = GameMsgProtocol.class.getDeclaredClasses();
+    for(Class<?> innerClazz: innerClazzArr) {
+      String clazzName = innerClazz.getSimpleName().toLowerCase();
 
-    msgCodeAndMsgBodyMap.put(GameMsgProtocol.MsgCode.USER_ENTRY_CMD_VALUE,GameMsgProtocol.UserEntryCmd.getDefaultInstance());
-    msgCodeAndMsgBodyMap.put(GameMsgProtocol.MsgCode.WHO_ELSE_IS_HERE_CMD_VALUE,GameMsgProtocol.WhoElseIsHereCmd.getDefaultInstance());
-    msgCodeAndMsgBodyMap.put(GameMsgProtocol.MsgCode.USER_MOVE_TO_CMD_VALUE,GameMsgProtocol.UserMoveToCmd.getDefaultInstance());
-    msgCodeAndMsgBodyMap.put(GameMsgProtocol.MsgCode.USER_QUIT_RESULT_VALUE,GameMsgProtocol.UserQuitResult.getDefaultInstance());
-
-    msgAndMsgCodeMap.put(GameMsgProtocol.UserEntryResult.class,GameMsgProtocol.MsgCode.USER_ENTRY_RESULT_VALUE);
-    msgAndMsgCodeMap.put(GameMsgProtocol.WhoElseIsHereResult.class,GameMsgProtocol.MsgCode.WHO_ELSE_IS_HERE_RESULT_VALUE);
-    msgAndMsgCodeMap.put(GameMsgProtocol.UserMoveToResult.class,GameMsgProtocol.MsgCode.USER_MOVE_TO_RESULT_VALUE);
+      for(GameMsgProtocol.MsgCode msgCode: GameMsgProtocol.MsgCode.values()) {
+        String strMsgCode = msgCode.name().replaceAll("_", "").toLowerCase();
+        if(strMsgCode.startsWith(clazzName)) {
+          try {
+            Object returnVal = innerClazz.getDeclaredMethod("getDefaultInstance").invoke(innerClazz);
+            msgCodeAndMsgBodyMap.put(msgCode.getNumber(), (GeneratedMessageV3)returnVal);
+            msgAndMsgCodeMap.put(innerClazz,msgCode.getNumber());
+          } catch (Exception e) {
+            e.printStackTrace();
+          }
+        }
+      }
+    }
   }
 
   public static Message.Builder getBuilderByMsgCode(Integer msgCode) {
