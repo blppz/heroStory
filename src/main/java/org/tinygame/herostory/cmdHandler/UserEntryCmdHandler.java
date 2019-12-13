@@ -14,9 +14,8 @@ import org.tinygame.herostory.msg.GameMsgProtocol;
  */
 public class UserEntryCmdHandler implements ICmdHandler<GameMsgProtocol.UserEntryCmd> {
 
-  public void handle(ChannelHandlerContext context, GameMsgProtocol.UserEntryCmd msg) {
+  public void handle(ChannelHandlerContext context, GameMsgProtocol.UserEntryCmd cmd) {
     // 返回结果信息
-    GameMsgProtocol.UserEntryCmd cmd = msg;
     int userId = cmd.getUserId();
     String heroAvatar = cmd.getHeroAvatar();
 
