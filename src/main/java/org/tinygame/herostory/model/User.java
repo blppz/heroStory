@@ -16,6 +16,19 @@ public class User {
 
     public final MoveState moveState = new MoveState();
 
+    /**
+     * 用户当前血量
+     */
+    public int currHp;
+
+    public int getCurrHp() {
+        return currHp;
+    }
+
+    public void setCurrHp(int currHp) {
+        this.currHp = currHp;
+    }
+
     public MoveState getMoveState() {
         return moveState;
     }
