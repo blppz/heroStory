@@ -7,12 +7,18 @@ public class User {
     /**
      * 用户 Id
      */
-    public int userId;
+    private int userId;
 
     /**
      * 英雄形象
      */
-    public String heroAvatar;
+    private String heroAvatar;
+
+    public final MoveState moveState = new MoveState();
+
+    public MoveState getMoveState() {
+        return moveState;
+    }
 
     public int getUserId() {
         return userId;

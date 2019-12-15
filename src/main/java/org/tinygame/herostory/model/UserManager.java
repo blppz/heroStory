@@ -26,4 +26,8 @@ public final class UserManager {
   public static Map<Integer,User>getUserMap() {
     return _userMap;
   }
+
+  public static User getUserById(Integer userId) {
+    return _userMap.get(userId);
+  }
 }

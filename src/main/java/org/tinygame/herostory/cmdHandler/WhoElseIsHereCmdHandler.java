@@ -1,6 +1,7 @@
 package org.tinygame.herostory.cmdHandler;
 
 import io.netty.channel.ChannelHandlerContext;
+import org.tinygame.herostory.model.MoveState;
 import org.tinygame.herostory.model.UserManager;
 import org.tinygame.herostory.model.User;
 import org.tinygame.herostory.msg.GameMsgProtocol;
@@ -19,9 +20,22 @@ public class WhoElseIsHereCmdHandler implements ICmdHandler<GameMsgProtocol.WhoE
       if(curUser==null) {
         continue;
       }
+      // 构建每一个用户的信息
       GameMsgProtocol.WhoElseIsHereResult.UserInfo.Builder userInfoBuilder = GameMsgProtocol.WhoElseIsHereResult.UserInfo.newBuilder();
       userInfoBuilder.setUserId(curUser.getUserId());
       userInfoBuilder.setHeroAvatar(curUser.getHeroAvatar());
+
+      // 构建用户移动状态
+      GameMsgProtocol.WhoElseIsHereResult.UserInfo.MoveState.Builder moveStateBuilder =
+          GameMsgProtocol.WhoElseIsHereResult.UserInfo.MoveState.newBuilder();
+      MoveState mvState = curUser.getMoveState();
+      moveStateBuilder.setFromPosX(mvState.getFromPosX());
+      moveStateBuilder.setFromPosY(mvState.getFromPosY());
+      moveStateBuilder.setToPosX(mvState.getToPosX());
+      moveStateBuilder.setToPosY(mvState.getToPosY());
+      moveStateBuilder.setStartTime(mvState.getStartTime());
+
+      userInfoBuilder.setMoveState(moveStateBuilder);
 
       resultBuilder.addUserInfo(userInfoBuilder);
     }
