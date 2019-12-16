@@ -4,6 +4,8 @@ import com.google.protobuf.GeneratedMessageV3;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
 import io.netty.util.AttributeKey;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.tinygame.herostory.cmdHandler.CmdHandlerFactory;
 import org.tinygame.herostory.cmdHandler.ICmdHandler;
 import org.tinygame.herostory.model.UserManager;
@@ -15,6 +17,7 @@ import org.tinygame.herostory.msg.GameMsgProtocol;
  * @Date 2019/12/4 9:29
  */
 public class GameMsgHandler extends SimpleChannelInboundHandler<Object> {
+  private static final Logger LOGGER = LoggerFactory.getLogger(GameMsgHandler.class);
 
   @Override
   public void channelActive(ChannelHandlerContext ctx) throws Exception {
@@ -41,24 +44,14 @@ public class GameMsgHandler extends SimpleChannelInboundHandler<Object> {
 
   @Override
   protected void channelRead0(ChannelHandlerContext context, Object msg) throws Exception {
-    System.out.println("--" + msg.getClass().getSimpleName() + "--");
-    System.out.println(msg);
+    if(context==null || msg==null) {
+      return;
+    }
 
-    // 消息处理器不需要知道指令处理器是谁，所以下边的代码都要抽抽抽
-    // 简单工厂
-    ICmdHandler<? extends GeneratedMessageV3> cmd = CmdHandlerFactory.getHandler(msg.getClass());
-
-    if(cmd != null) {
-      cmd.handle(context, change(msg));
+    if(msg instanceof GeneratedMessageV3) {
+      MainThreadProcessor.getInstance().process(context, (GeneratedMessageV3)msg);
     }
   }
 
-  // 强转，可以骗过编译器
-  private <TCmd extends GeneratedMessageV3> TCmd change(Object msg) {
-    if(msg==null) {
-      return null;
-    }
-    return (TCmd)msg;
-  }
 
 }
