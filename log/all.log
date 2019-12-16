@@ -194,3 +194,57 @@ moveToPosY: -111.09434
 
 [10:42:07,912] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 1
 
+[10:42:35,118] [INFO] ServerMain.main --> 服务器启动成功
+[10:42:39,858] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 3
+
+[10:42:39,860] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:44,212] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 1
+heroAvatar: "Hero_Hammer"
+
+[10:42:44,213] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:44,234] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[10:42:44,235] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:44,288] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 1
+
+[10:42:44,290] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:45,416] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 2
+heroAvatar: "Hero_Shaman"
+
+[10:42:45,416] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:45,418] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[10:42:45,420] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:48,048] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 3
+heroAvatar: "Hero_Skeleton"
+
+[10:42:48,049] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:48,050] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[10:42:48,055] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:49,624] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveToPosX: 49.50944
+moveToPosY: 4.8301888
+
+[10:42:49,625] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:51,900] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveToPosX: -67.622635
+moveToPosY: 8.45283
+
+[10:42:51,902] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:53,468] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveFromPosX: -68.26201
+moveFromPosY: 10.674047
+moveToPosX: -49.509426
+moveToPosY: 1.2075472
+
+[10:42:53,469] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:54,366] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 3
+
+[10:42:54,367] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:56,330] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 4294967295
+
+[10:42:56,331] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:58,053] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveFromPosX: 51.2064
+moveFromPosY: 12.805759
+moveToPosX: 45.8868
+moveToPosY: -19.320755
+
+[10:42:58,054] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:58,947] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 3
+
+[10:42:58,948] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
