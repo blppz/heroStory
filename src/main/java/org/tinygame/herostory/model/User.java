@@ -20,6 +20,15 @@ public class User {
      * 用户当前血量
      */
     public int currHp;
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     public int getCurrHp() {
         return currHp;

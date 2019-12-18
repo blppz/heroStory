@@ -1,0 +1,8 @@
+[17:29:19,063] [INFO] ServerMain.main --> 服务器启动成功
+[17:31:17,290] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserLoginCmd，msg=userName: "ba"
+password: "bb"
+
+[17:31:17,292] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[17:31:17,294] [INFO] LoginCmdHandler.handle --> 用户登录 == userName: "ba"
+password: "bb"
+

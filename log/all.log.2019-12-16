@@ -1,0 +1,250 @@
+[09:45:36,899] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 1
+heroAvatar: "Hero_Hammer"
+
+[09:45:37,004] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[09:45:37,153] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveToPosX: 113.92859
+moveToPosY: -38.57143
+
+[09:45:56,011] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 2
+heroAvatar: "Hero_Shaman"
+
+[09:45:56,015] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[09:46:03,403] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveFromPosX: 115.20192
+moveFromPosY: -40.53402
+moveToPosX: 321.74545
+moveToPosY: -168.72728
+
+[09:46:07,123] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveToPosX: -287.47733
+moveToPosY: 37.749546
+
+[09:46:10,450] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveFromPosX: -287.9899
+moveFromPosY: 38.400898
+moveToPosX: 266.56985
+moveToPosY: -163.1942
+
+[09:46:14,234] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 1
+heroAvatar: "Hero_Hammer"
+
+[09:46:14,236] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[09:46:16,729] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveToPosX: -106.472725
+moveToPosY: 32.581818
+
+[09:46:17,902] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveFromPosX: -106.64564
+moveFromPosY: 34.108162
+moveToPosX: 210.03636
+moveToPosY: -172.21819
+
+[09:46:20,537] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:20,718] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:20,897] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:21,064] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:21,244] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:21,432] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:21,585] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:21,767] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:22,496] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:22,680] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:22,980] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:23,794] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:24,451] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:25,131] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:25,889] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:26,380] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:26,565] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:26,797] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:26,998] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:27,201] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:27,418] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:27,631] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:27,848] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:28,049] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:28,265] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:28,445] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:28,664] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:28,864] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:29,079] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:29,283] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:29,480] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:29,663] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:29,847] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:30,050] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:34,867] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 2
+heroAvatar: "Hero_Shaman"
+
+[09:46:34,868] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[09:46:38,449] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 1
+heroAvatar: "Hero_Hammer"
+
+[09:46:38,451] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[09:46:39,573] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:39,750] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:39,901] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:40,069] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:40,217] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:40,380] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:40,713] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:40,869] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:41,066] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:41,219] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:41,381] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:41,581] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[09:46:41,764] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 2
+
+[10:18:08,057] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveToPosX: 362.47272
+moveToPosY: 3.490909
+
+[10:40:20,732] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 1
+heroAvatar: "Hero_Hammer"
+
+[10:40:20,739] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[10:40:25,403] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 2
+heroAvatar: "Hero_Shaman"
+
+[10:40:25,405] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[10:40:31,186] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveToPosX: 169.05661
+moveToPosY: -9.6603775
+
+[10:40:38,458] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 3
+heroAvatar: "Hero_Skeleton"
+
+[10:40:38,461] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[10:40:47,535] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 4294967295
+
+[10:40:49,855] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveFromPosX: 170.67252
+moveFromPosY: -10.668544
+moveToPosX: -94.188675
+moveToPosY: 20.528301
+
+[10:40:53,222] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveFromPosX: -95.99345
+moveFromPosY: 21.327614
+moveToPosX: 8.452837
+moveToPosY: -101.43396
+
+[10:40:55,756] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 3
+
+[10:40:56,082] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveToPosX: -96.60377
+moveToPosY: -76.07547
+
+[10:40:57,840] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveFromPosX: -98.149
+moveFromPosY: -78.93978
+moveToPosX: -50.716972
+moveToPosY: -107.471695
+
+[10:41:00,371] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveToPosX: 66.4151
+moveToPosY: -107.471695
+
+[10:41:02,027] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveFromPosX: 68.283005
+moveFromPosY: -108.79002
+moveToPosX: 57.962273
+moveToPosY: -111.09434
+
+[10:41:03,388] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 1
+
+[10:41:06,108] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 1
+
+[10:42:05,945] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 1
+
+[10:42:06,983] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 3
+
+[10:42:07,912] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 1
+
+[10:42:35,118] [INFO] ServerMain.main --> 服务器启动成功
+[10:42:39,858] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 3
+
+[10:42:39,860] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:44,212] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 1
+heroAvatar: "Hero_Hammer"
+
+[10:42:44,213] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:44,234] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[10:42:44,235] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:44,288] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 1
+
+[10:42:44,290] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:45,416] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 2
+heroAvatar: "Hero_Shaman"
+
+[10:42:45,416] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:45,418] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[10:42:45,420] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:48,048] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd，msg=userId: 3
+heroAvatar: "Hero_Skeleton"
+
+[10:42:48,049] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:48,050] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd，msg=
+[10:42:48,055] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:49,624] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveToPosX: 49.50944
+moveToPosY: 4.8301888
+
+[10:42:49,625] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:51,900] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveToPosX: -67.622635
+moveToPosY: 8.45283
+
+[10:42:51,902] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:53,468] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveFromPosX: -68.26201
+moveFromPosY: 10.674047
+moveToPosX: -49.509426
+moveToPosY: 1.2075472
+
+[10:42:53,469] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:54,366] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 3
+
+[10:42:54,367] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:56,330] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 4294967295
+
+[10:42:56,331] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:58,053] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd，msg=moveFromPosX: 51.2064
+moveFromPosY: 12.805759
+moveToPosX: 45.8868
+moveToPosY: -19.320755
+
+[10:42:58,054] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread
+[10:42:58,947] [INFO] MainThreadProcessor.lambda$process$1 --> 收到客户端消息，clazz=org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd，msg=targetUserId: 3
+
+[10:42:58,948] [INFO] MainThreadProcessor.lambda$process$1 --> 当前线程==MainThread

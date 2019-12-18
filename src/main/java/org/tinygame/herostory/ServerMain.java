@@ -13,6 +13,7 @@ import io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.tinygame.herostory.cmdHandler.CmdHandlerFactory;
+import org.tinygame.herostory.util.MySqlSessionFactory;
 
 /**
  * @Deacription TODO
@@ -31,6 +32,7 @@ public class ServerMain {
   public static void main(String[] args) {
     CmdHandlerFactory.init();
     GameMsgRecognizer.init();
+    MySqlSessionFactory.init();
     /*
      * bossGroup、workerGroup是两个线程池
      * bossGroup是负责处理客户端连接的，有连接的时候会建立SocketChannel

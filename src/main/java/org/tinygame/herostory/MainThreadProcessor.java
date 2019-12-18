@@ -53,7 +53,12 @@ public final class MainThreadProcessor {
         return;
       }
 
-      cmd.handle(context, cast(msg));
+      // 这个一定要加上，不能让这个线程中断
+      try {
+        cmd.handle(context, cast(msg));
+      } catch (Exception e) {
+        e.printStackTrace();
+      }
     });
   }
 
