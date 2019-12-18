@@ -27,8 +27,7 @@ import org.tinygame.herostory.util.MySqlSessionFactory;
 public class ServerMain {
   static private final Logger LOGGER = LoggerFactory.getLogger(ServerMain.class);
 
-  // http://cdn0001.afrxvk.cn/hero_story/demo/step010/index.html?serverAddr=169.254.142.48:12345&userId=1
-  // http://cdn0001.afrxvk.cn/hero_story/demo/step020/index.html?serverAddr=169.254.142.48:12345&userId=1
+  // http://cdn0001.afrxvk.cn/hero_story/demo/step030/index.html?serverAddr=192.168.1.100:12345&userId=1
   public static void main(String[] args) {
     CmdHandlerFactory.init();
     GameMsgRecognizer.init();

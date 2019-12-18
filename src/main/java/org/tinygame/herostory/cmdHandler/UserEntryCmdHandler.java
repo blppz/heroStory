@@ -9,8 +9,6 @@ import org.tinygame.herostory.model.User;
 import org.tinygame.herostory.model.UserManager;
 import org.tinygame.herostory.msg.GameMsgProtocol;
 
-import java.util.IllegalFormatConversionException;
-
 /**
  * @Deacription TODO
  * @Author BarryLee

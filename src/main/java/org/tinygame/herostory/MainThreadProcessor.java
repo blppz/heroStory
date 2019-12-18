@@ -11,7 +11,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * @Deacription 单线程处理cmd
+ * @Deacription 单线程处理cmd -- 就是用来处理消息，业务层的理论上不需要管而是交给另外的线程来做
  * @Author BarryLee
  * @Date 2019/12/16 9:43
  */
