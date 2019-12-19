@@ -44,6 +44,11 @@ public final class LoginService {
           callback.apply(this.getUserEntity());
         }
       }
+
+      @Override
+      public int bindId() {
+        return name.length()^name.hashCode()>>2;
+      }
     };
 
     AsyncOperationProcessor.getInstance().process(asyncOp);

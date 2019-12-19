@@ -16,4 +16,12 @@ public interface IAsyncOperation {
    */
   default void doFinish() {
   }
+
+  /**
+   *
+   * @return
+   */
+  default int bindId() {
+    return 0;
+  }
 }
