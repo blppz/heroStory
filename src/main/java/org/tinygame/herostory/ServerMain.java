@@ -19,6 +19,9 @@ import org.tinygame.herostory.util.MySqlSessionFactory;
  * @Deacription TODO
  * @Author BarryLee
  * @Date 2019/12/4 8:42
+ *
+ * 游戏服务器开发的本质：完成游戏业务向多线程的映射
+ *
  */
 
 /**

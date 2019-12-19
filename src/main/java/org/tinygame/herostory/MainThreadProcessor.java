@@ -20,8 +20,8 @@ public final class MainThreadProcessor {
   // 单例对象
   private static MainThreadProcessor instance = new MainThreadProcessor();
   private static final ExecutorService es = Executors.newSingleThreadExecutor(
-      r -> new Thread(r, "MainThread")
-    );
+    r -> new Thread(r, "MainThread")
+  );
 
   // 私有化类默认构造器
   private MainThreadProcessor() {
@@ -29,6 +29,16 @@ public final class MainThreadProcessor {
 
   public static MainThreadProcessor getInstance() {
     return instance;
+  }
+
+  public void process(Runnable r) {
+    try {
+      if(es!=null) {
+        es.submit(r);
+      }
+    } catch (Exception e) {
+      LOGGER.error(e.getMessage(), e);
+    }
   }
 
   public void process(ChannelHandlerContext context, GeneratedMessageV3 msg) {

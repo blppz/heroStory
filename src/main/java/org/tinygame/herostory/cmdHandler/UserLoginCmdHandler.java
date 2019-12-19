@@ -28,43 +28,43 @@ public class UserLoginCmdHandler implements ICmdHandler<GameMsgProtocol.UserLogi
     final String password = cmd.getPassword();
 
     LOGGER.info("用户登录 ==> userName={},password={}", userName,password);
-    UserEntity user = null;
-    try {
-      user = LoginService.getInstance().userLogin(userName,password);
-    } catch (Exception e) {
-      LOGGER.error(e.getMessage(),e);
-    }
 
-    // 登录失败
-    if(user == null) {
-      LOGGER.error("用户登录失败,userName={}",userName);
-      return;
-    }
+    LoginService.getInstance().userLogin(userName,password,(user)->{
+      LOGGER.info("当前线程 = {}",Thread.currentThread().getName());
 
-    // 登录成功
-    LOGGER.info("用户登录成功,userName={}",userName);
+      // 登录失败
+      if(user == null) {
+        LOGGER.error("用户登录失败,userName={}",userName);
+        return null;
+      }
 
-    // 新建用户
-    User newUser = new User();
-    newUser.setUserId(user.getUserId());
-    newUser.setCurrHp(100860);
-    newUser.setName(user.getUserName());
-    newUser.setHeroAvatar(user.getHeroAvatar());
-    // 并将用户加入到用户管理器
-    UserManager.addUser(newUser);
+      // 登录成功
+      LOGGER.info("用户登录成功,userName={}",userName);
 
-    // 将用户id附着到channel
-    context.channel().attr(AttributeKey.valueOf("userId")).set(newUser.getUserId());
+      // 新建用户
+      User newUser = new User();
+      newUser.setUserId(user.getUserId());
+      newUser.setCurrHp(100860);
+      newUser.setName(user.getUserName());
+      newUser.setHeroAvatar(user.getHeroAvatar());
+      // 并将用户加入到用户管理器
+      UserManager.addUser(newUser);
 
-    // 封装结果消息
-    GameMsgProtocol.UserLoginResult.Builder resultBuilder = GameMsgProtocol.UserLoginResult.newBuilder();
-    resultBuilder.setUserId(newUser.getUserId());
-    resultBuilder.setUserName(newUser.getName());
-    resultBuilder.setHeroAvatar(newUser.getHeroAvatar());
+      // 将用户id附着到channel
+      context.channel().attr(AttributeKey.valueOf("userId")).set(newUser.getUserId());
 
-    // 构建结果并发送
-    GameMsgProtocol.UserLoginResult result = resultBuilder.build();
-    // 这里不要用broadcaster类，那个是广播给大家看的，而这里只是发送给当前用户
-    context.writeAndFlush(result);
+      // 封装结果消息
+      GameMsgProtocol.UserLoginResult.Builder resultBuilder = GameMsgProtocol.UserLoginResult.newBuilder();
+      resultBuilder.setUserId(newUser.getUserId());
+      resultBuilder.setUserName(newUser.getName());
+      resultBuilder.setHeroAvatar(newUser.getHeroAvatar());
+
+      // 构建结果并发送
+      GameMsgProtocol.UserLoginResult result = resultBuilder.build();
+      // 这里不要用broadcaster类，那个是广播给大家看的，而这里只是发送给当前用户
+      context.writeAndFlush(result);
+
+      return null;
+    });
   }
 }

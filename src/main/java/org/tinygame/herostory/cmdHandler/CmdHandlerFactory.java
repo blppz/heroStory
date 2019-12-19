@@ -1,6 +1,8 @@
 package org.tinygame.herostory.cmdHandler;
 
 import com.google.protobuf.GeneratedMessageV3;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.tinygame.herostory.util.PackageUtil;
 
 import java.lang.reflect.Method;
@@ -14,6 +16,7 @@ import java.util.Set;
  * @Date 2019/12/9 19:53
  */
 public final class CmdHandlerFactory {
+  private static final Logger LOGGER = LoggerFactory.getLogger(CmdHandlerFactory.class);
   private CmdHandlerFactory() {
   }
   private static final Map<Class<?>, ICmdHandler<? extends GeneratedMessageV3>>map = new HashMap<>();
@@ -50,6 +53,8 @@ public final class CmdHandlerFactory {
 
         type = paramTypes[1];
       }
+
+      LOGGER.info("完成关联: {} == {}", type, clazz.getName());
 
       try {
         map.put(

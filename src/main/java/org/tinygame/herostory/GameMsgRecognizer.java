@@ -16,7 +16,7 @@ import java.util.Map;
  * @Date 2019/12/9 21:40
  */
 public final class GameMsgRecognizer {
-  private static final Logger logger = LoggerFactory.getLogger(GameMsgRecognizer.class);
+  private static final Logger LOGGER = LoggerFactory.getLogger(GameMsgRecognizer.class);
   private static final Map<Integer, GeneratedMessageV3>msgCodeAndMsgBodyMap = new HashMap<>();
   private static final Map<Class<?>,Integer>msgAndMsgCodeMap = new HashMap<>();
   private GameMsgRecognizer() {
@@ -32,6 +32,9 @@ public final class GameMsgRecognizer {
         if(strMsgCode.startsWith(clazzName)) {
           try {
             Object returnVal = innerClazz.getDeclaredMethod("getDefaultInstance").invoke(innerClazz);
+
+            LOGGER.info("完成关联: {} == {}", innerClazz.getName(),msgCode.getNumber());
+
             msgCodeAndMsgBodyMap.put(msgCode.getNumber(), (GeneratedMessageV3)returnVal);
             msgAndMsgCodeMap.put(innerClazz,msgCode.getNumber());
           } catch (Exception e) {
