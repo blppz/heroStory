@@ -17,6 +17,6 @@
     </environment>
   </environments>
   <mappers>
-    <mapper resource="org/tinygame/herostory/login/IUserDao.xml"/>
+    <mapper resource="org/tinygame/herostory/login/db/IUserDao.xml"/>
   </mappers>
 </configuration>

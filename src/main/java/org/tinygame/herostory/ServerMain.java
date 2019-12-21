@@ -14,6 +14,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.tinygame.herostory.cmdHandler.CmdHandlerFactory;
 import org.tinygame.herostory.util.MySqlSessionFactory;
+import org.tinygame.herostory.util.RedisUtil;
 
 /**
  * @Deacription TODO
@@ -30,11 +31,13 @@ import org.tinygame.herostory.util.MySqlSessionFactory;
 public class ServerMain {
   static private final Logger LOGGER = LoggerFactory.getLogger(ServerMain.class);
 
-  // http://cdn0001.afrxvk.cn/hero_story/demo/step030/index.html?serverAddr=192.168.1.100:12345&userId=1
+  // http://cdn0001.afrxvk.cn/hero_story/demo/step040/index.html?serverAddr=192.168.137.1:12345&userId=1
   public static void main(String[] args) {
     CmdHandlerFactory.init();
     GameMsgRecognizer.init();
     MySqlSessionFactory.init();
+    RedisUtil.init();
+
     /*
      * bossGroup、workerGroup是两个线程池
      * bossGroup是负责处理客户端连接的，有连接的时候会建立SocketChannel

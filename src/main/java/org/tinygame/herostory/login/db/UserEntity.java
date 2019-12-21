@@ -1,4 +1,4 @@
-package org.tinygame.herostory.login;
+package org.tinygame.herostory.login.db;
 
 import java.io.Serializable;
 

@@ -55,7 +55,6 @@ public final class AsyncOperationProcessor {
 
          //Thread.sleep(1000);
 
-         System.out.println("=============doFinish============");
          // 返回主线程执行完成逻辑
          MainThreadProcessor.getInstance().process(asyncOp::doFinish);
        } catch (Exception e) {
